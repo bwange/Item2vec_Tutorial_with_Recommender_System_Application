@@ -4,3 +4,5 @@ This tutorial will walk you through the ideas behind Word2Vec and one of its ext
 Approaches like Word2Vec learn word embeddings that preserve the semantic characteristics of words and the relations between words. Item2Vec is one of their variants. It is an item-based Collaborative Filtering algorithm utilizing the embedding for the items in a latent space. The algorithm is proved to provided competitive results compared to the traditional SVD approach or even deep learning algorithms.
 
 Leveraging on the simple but powerful architecture of Word2vec, we can build a movie recommender system just with a standard multi-cored laptop! Isn't that exciting? Let's get started!
+
+Use this [link](https://drive.google.com/open?id=1FTBsbPtYCAcS_N53MEr3VUwSqGfeIPHe) to download the pre-trained model.
